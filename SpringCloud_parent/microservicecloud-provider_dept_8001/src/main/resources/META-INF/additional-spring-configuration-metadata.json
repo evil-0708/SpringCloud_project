@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "info.build.artifactId",
+      "type": "java.lang.String",
+      "description": "Description for info.build.artifactId."
+    },
+    {
+      "name": "info.build.version",
+      "type": "java.lang.String",
+      "description": "Description for info.build.version."
+    }
+  ] }

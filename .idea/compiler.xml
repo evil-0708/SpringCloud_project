@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="microservicecloud-provider_dept_8003" />
+        <module name="microservicecloud-provider_dept_8002" />
+        <module name="microservicecloud-provider_dept_8001" />
+        <module name="microservicecloud-consumer_dept_8080" />
+        <module name="microservicecloud-provider_dept_hystrix_dashboard" />
+        <module name="microservicecloud_api" />
+        <module name="microservicecloud-consumer_dept_feign" />
+        <module name="microservicecloud-provider_dept_hystrix_8001" />
+        <module name="microservicecloud-zuul_gateway_9527" />
+        <module name="microservicevloud-eureka_7003" />
+        <module name="microservicevloud-eureka_7002" />
+        <module name="microservicevloud-eureka_7001" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
